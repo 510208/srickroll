@@ -1,8 +1,8 @@
 // rickroll.jquery.js
 
 $(document).ready(function() {
-  // Output log when the Rickroll framework is loaded
-  console.log('Rickroll framework loaded.');
+  // Output styled log when the Rickroll framework is loaded
+  console.log('%cRickroll framework loaded.', 'color: green; font-weight: bold;');
 
   function getRandomRickrollLyric() {
     const rickrollLyrics = [

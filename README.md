@@ -21,6 +21,9 @@
 <script src="https://fastly.jsdelivr.net/gh/510208/srickroll@latest/srickroll.js"></script>
 ```
 
+
+> 記得，要把JavaScript的所有引入方法，接在 `</body>` 之前
+
 ### 自行託管
 
 如果你想靠自己來，簡單！

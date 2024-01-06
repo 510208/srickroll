@@ -1,6 +1,9 @@
 // rickroll.jquery.js
 
 $(document).ready(function() {
+  // Output log when the Rickroll framework is loaded
+  console.log('Rickroll framework loaded.');
+
   function getRandomRickrollLyric() {
     const rickrollLyrics = [
       "Never gonna give you up",

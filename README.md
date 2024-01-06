@@ -18,7 +18,7 @@
 直接引入原始檔案，這樣：
 
 ```html
-<script src="https://fastly.jsdelivr.net/gh/510208/srickroll@main/srickroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/510208/srickroll/srickroll.js"></script>
 ```
 
 這樣還不會工作，因此請在你的網頁裡面建立一個元素(以下列出可以用的元素)，並為它加上一行 `class="rickroll"` 即可

@@ -18,7 +18,7 @@
 直接引入原始檔案，這樣：
 
 ```html
-<script src="https://fastly.jsdelivr.net/gh/510208/srickroll@latest/srickroll.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/510208/srickroll@main/srickroll.js"></script>
 ```
 
 

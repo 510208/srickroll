@@ -35,34 +35,34 @@
 像這樣：
 
 ```html
-<h1 class="rickroll display-1">h1 Rickroll</h1>
-<h2 class="rickroll display-2">h2 Rickroll</h2>
-<h3 class="rickroll display-3">h3 Rickroll</h3>
-<h4 class="rickroll display-4">h4 Rickroll</h4>
+<h1 class="rickroll">h1 Rickroll</h1>
+<h2 class="rickroll">h2 Rickroll</h2>
+<h3 class="rickroll">h3 Rickroll</h3>
+<h4 class="rickroll">h4 Rickroll</h4>
 <h5 class="rickroll">h5 Rickroll</h5>
 <h6 class="rickroll">h6 Rickroll</h6>
-<p class="rickroll lead">p Rickroll</p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="rickroll btn btn-primary">a Rickroll</a>
-<input type="button" value="input Rickroll" class="rickroll btn btn-primary"></input>
-<button class="rickroll btn btn-primary">button Rickroll</button>
+<p class="rickroll">p Rickroll</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="rickroll">a Rickroll</a>
+<input type="button" value="input Rickroll" class="rickroll"></input>
+<button class="rickroll">button Rickroll</button>
 <p>  </p>
-<div class="rickroll alert alert-primary" role="alert">
+<div class="rickroll" role="alert">
     div Rickroll
 </div>
 <p>  </p>
-<span class="rickroll badge badge-primary">span Rickroll</span>
+<span class="rickroll">span Rickroll</span>
 <br>
 <p>  </p>
-<div class="rickroll card" style="width: 18rem;">
+<div class="rickroll" style="width: 18rem;">
     <img src="https://i.imgur.com/6XZQq2F.jpg" class="card-img-top" alt="...">
     <div class="card-body">
         <h5 class="card-title">card Rickroll</h5>
         <p class="card-text">card Rickroll</p>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="rickroll btn btn-primary">a Rickroll</a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="rickroll">a Rickroll</a>
     </div>
 </div>
 <p>  </p>
-<textarea class="rickroll form-control" id="exampleFormControlTextarea1" rows="3">textarea Rickroll</textarea>
+<textarea class="rickroll" id="exampleFormControlTextarea1" rows="3">textarea Rickroll</textarea>
 ```
 
 > 記得，要把JavaScript的所有引入方法，接在 `</body>` 之前

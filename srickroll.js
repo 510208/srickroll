@@ -9,7 +9,9 @@ $(document).ready(function() {
       "Never gonna give you up",
       "Never gonna let you down",
       "Never gonna run around and desert you",
-      // Add more lyrics as needed
+      "Never gonna make you cry",
+      "Never gonna say goodbye",
+      "Never gonna tell a lie and hurt you"
     ];
 
     const randomIndex = Math.floor(Math.random() * rickrollLyrics.length);
